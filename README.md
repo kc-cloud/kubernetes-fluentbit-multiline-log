@@ -22,7 +22,7 @@ It's a multiline log parser fluent-bit config that can be used to parse log4j lo
 {"log":"2021-02-14 11:31:57.855 DEBUG microservice-deployment-779cd79bd5-tnzn7 - [io-20200-exec-8] ( ) o.s.s.w.a.ExceptionTranslationFilter               : Calling Authentication entry point.\n","stream":"stdout","time":"2021-02-14T16:31:57.855373788Z"}
 ```
 
-## How to use?
+## How to use this configuration?
 Download the application logs that were converted by the kubernetes clusters as json file, place it in the input folder, and update the multi-line.cfg file with the location of the json file. and run the following command:
 
 ```
