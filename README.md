@@ -2,7 +2,7 @@
 
 It's a multiline log parser fluent-bit config that can be used to parse log4j logs. It addresses the challenges of parsing log4j logs that often contain exception stack traces in them.  
 
-## How does the kubernetes generated application log files look like?
+## How does the kubernetes generated application log file look like?
 ### Application generated logs:
 ```
 2021-02-14 11:31:57.847 DEBUG microservice-deployment-779cd79bd5-tnzn7 - [io-20200-exec-8] ( ) o.s.s.w.a.ExceptionTranslationFilter               : Access is denied (user is anonymous); redirecting to authentication entry point
