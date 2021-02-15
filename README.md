@@ -1,0 +1,1 @@
+# kubernetes-fluentbit-multiline-log
